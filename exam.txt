@@ -1,0 +1,9 @@
+Ach,Mary A B D C C D E E A D E D
+Kinney,Amy D B A C C D E E A D E E
+Ford,Wayne D D D C C D E E A D A E
+Baker,Julie C B A E D C E E A D E E
+Norris,Brent A B D C C D E E A D E E
+Boyle,Joseph D B D C C D A E A D E E
+Lenhart,Misty B B E C C D E E A D E E
+Korpics,Wayne B B A C C D E E A D E A
+Huston,Connie E B D C C D A E A D E E
